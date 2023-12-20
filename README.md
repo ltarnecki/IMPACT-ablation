@@ -1,6 +1,8 @@
 # IMPACT-ablation
 Analysis routines for luminous efficiency experiments using the CU-LASP IMPACT facility
 
+Publication using results DOI:10.1029/2023GL103016
+
 To process data:
 
 1.) Run check_dust_data, or otherwise identify triggers which have an ablation event
